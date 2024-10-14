@@ -6,7 +6,7 @@
 ### University of North Carolina at Chapel Hill
 
 <div align=center> 
-<img src="./assets/adapt_inf.png" alt="teaser image" width="800"/>
+<img src="adapt_inf.png" alt="teaser image" width="800"/>
 </div>
 
 ### Code will be released soon!
