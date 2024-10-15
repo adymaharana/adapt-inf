@@ -69,7 +69,7 @@ Instructions coming soon!
 
 
 ### Reference
-Please cite our paper if you use the $D^2$ pruning method in your works:
+Please cite our paper if you use this method in your works:
 ```bibtex
 
 @article{maharana2024adapt,
