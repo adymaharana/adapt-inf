@@ -58,11 +58,15 @@ Post-process the dataset for use with this codebase.
 python utils/download_datasets.py --dataset minigpt4
 ```
 
-2. MANTIS Dataset
+4. MANTIS Dataset
 Download the dataset from HuggingFace.
 ```
 python utils/download_datasets.py --dataset mantis
 ```
+
+5. LAMM Dataset
+
+6. VisionFLAN Dataset
 
 ### Selection and Training
 Instructions coming soon! 
